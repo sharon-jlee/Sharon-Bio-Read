@@ -1,15 +1,4 @@
 # Sharon's Read Me
 
-## Welcome to my Read me file
+## Hello! Welcome to my Read Me file
 
-### hello
-
-**bold**
-
-*italics*
-
-yay
-* 1
-* 2
-
-[selfie]
